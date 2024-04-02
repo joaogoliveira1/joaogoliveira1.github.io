@@ -1,0 +1,11 @@
+Step 1: in vscode, bring up the command prompt and do gitcl, cloning the Github repository to a local folder
+Step 2: install ruby, with all developer tools
+Step 3: run 'bundle install' from the local repository using cmd or gitbash. This will install Jekyll, a series of packages (or "gems" in ruby), which build the website and start a webserver locally
+Step 4: run "bundle exec jekyll serve" from cmd or gitbash which builds the website and launches a webserver 
+Step 5: to access the website open a webrowser and go to "127.0.0.1:4000" or "localhost:4000". If this generates an error complaining about timezone (https://stackoverflow.com/questions/51069616/jekyll-3-7-3-error-no-source-of-timezone-data-could-be-found)
+Put "gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]" into the gemfile and run "bundle install"again
+
+
+# Notes
+Commit & sync will put the changes into Github
+'bundle install' is a command for either cmd or gitbash to read the Gemfile in the working directory and install the necessary ruby packages or gems
