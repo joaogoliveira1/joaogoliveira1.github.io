@@ -87,12 +87,12 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;      // I used this to increase the size of the picture
+    // border-radius: 50%; // comment out to remove set a square-shaped photo
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 0px solid $border-color; // removed border by setting 0px
     }
   }
 }

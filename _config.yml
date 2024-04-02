@@ -21,10 +21,10 @@ repository               : "joaogoliveira1/joaogoliveira1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/joaogoliveira.png"
+  avatar           : "joaogoliveira.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Research Economist in Monetary Analysis"
+  bio              : "Research Economist"
   location         : "London, UK"
   employer         : "Bank of England"
   uri              : # URL
