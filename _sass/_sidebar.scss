@@ -30,6 +30,8 @@
   }
 
   @include breakpoint($x-large) {
+    // I've set a maximum width to stop the sidebar links from overlapping with the main text
+    max-width: 250px;
     padding-right: 0;
   }
 
