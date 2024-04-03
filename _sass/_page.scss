@@ -56,7 +56,9 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    // this controls the size main page text font size
+    font-size: 0.85em;
+    //font-size: $type-size-5;
   }
 
   /* paragraph indents */
