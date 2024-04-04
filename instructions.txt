@@ -9,6 +9,7 @@ Put "gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]" into the gemfil
 # Notes
 Commit & sync will put the changes into Github
 'bundle install' is a command for either cmd or gitbash to read the Gemfile in the working directory and install the necessary ruby packages or gems
+The best instruction manual for customizing academic pages is: https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/#how-to-change-font-size-in-posts
 
 The structure of this code seems to be: 
 1. _config.yml sets some overall preferences for the user
