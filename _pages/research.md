@@ -15,7 +15,7 @@ author_profile: true
 **A Semi-Structural Framework for Measuring  Credit Cycles in Europe** <br/>
 (with Ana Pereira), 2023. *Revise and Resubmit at the Journal of Banking and Finance*.
 
-  [PDF](/files/GP_2021.pdf){: .btn}
+  [PDF](/files/GP_2021.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573029){: .btn}
 
 **Mortgage Borrowing Caps: Leverage, Default, and Welfare** <br/>
 (with Leonor Queiró), 2022. *Job market paper*.
