@@ -7,13 +7,16 @@ author_profile: true
 
 # Working Papers
 
+**Regional Transfer Policies and Misallocation** <br/>
+(with Ana Pereira), 2026.
+
 **Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation** <br/>
-(with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://jbduarte.com/" target="_blank">João B. Duarte</a>), 2022. *Revise and Resubmit at the Review of Economic Studies*.
+(with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://jbduarte.com/" target="_blank">João B. Duarte</a>), 2022. *Second revise and resubmit at the Review of Economic Studies*.
 
   [PDF](/files/BDHO_istc.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn} &nbsp; [Presentation](https://youtu.be/Vnll9XCXMl8?si=giTJRRBchuz6l5TS){: .btn}
 
 **A Semi-Structural Framework for Measuring  Credit Cycles in Europe** <br/>
-(with Ana Pereira), 2023. *Revise and Resubmit at the Journal of Banking and Finance*.
+(with Ana Pereira), 2023.
 
   [PDF](/files/GP_2021.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573029){: .btn}
 
