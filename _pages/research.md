@@ -10,7 +10,7 @@ author_profile: true
 **Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation** <br/>
 (with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://jbduarte.com/" target="_blank">João B. Duarte</a>), 2022. *Second revise and resubmit at the Review of Economic Studies*.
 
-  [PDF](/files/BDHO_istc.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn} &nbsp; [Presentation](https://youtu.be/Vnll9XCXMl8?si=giTJRRBchuz6l5TS){: .btn}
+  [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn}
 
 **Mortgage Borrowing Caps: Leverage, Default, and Welfare** <br/>
 (with Leonor Queiró), 2022. *Job market paper*.
